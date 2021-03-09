@@ -1,0 +1,6 @@
+    File: nvml_460.79_win10.zip
+    ---------------------------
+   SHA-1: 749ae64e4a5044994bec61d6d94459aa4c4cc719
+ SHA-256: 541ccdbd77c693d1de2919adab9eaa7e2b502c9ec2f722544002abbcf643539e
+ SHA-512: 80562b59e0a4f3c47557abc8742d9af6b119102f6fecfb3aa38112084ba0edd06451a631f633b667d57ec0417eb0db551d4cc5df90e0b835bce212b3ee6b75ce
+
