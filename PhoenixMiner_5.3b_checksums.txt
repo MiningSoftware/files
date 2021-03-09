@@ -1,0 +1,17 @@
+    File: PhoenixMiner_5.3b_Windows.zip
+    ===================================
+   SHA-1: 72aa9d2d154ffc5db5049c131c1ccf6ba773198c
+ SHA-256: cb8b5628d4c2cb8156d0956331011d9cb703cea06c4b90bb5734f7773ea99523
+ SHA-512: 2e1a653452a795d68e062cb21888d8a992ecd9c48c819d8c6b22bbf97227cd00e0d10cd68b12b6b71d82f845e366711fa7b6a21e56cb4244e5acd49ec5893baf
+
+    File: PhoenixMiner_5.3b_Linux.tar.gz
+    ====================================
+   SHA-1: 502032e8834f6f66e0fed17ec5f6028b51f8ea7b
+ SHA-256: 01f00bc3f4e79965be92ba22604426a013cbc3addd375beec73ee7c67193f54c
+ SHA-512: b5eda419db858f2eae2d4b393affc7f1eadf2e458eb0d95b8f3deb03f68f261da3bb6995b66f370b171b33909bb7eed2462d32341ab053cda1532e9809de1a5a
+
+    File: PhoenixMiner_NVRTC_Windows.zip
+    ====================================
+   SHA-1: ff6fa5e018adbd52caf631c42b7c2fac7ce48a51
+ SHA-256: 8087757169405d51ea8ba818347fb05d0450aef985c29272165070346eb5a54a
+ SHA-512: 7b2d832f7f40578bb1f501d5174467f5ae06612e601dab769fd56d39da48a471b18c6373435a485155f70fec4017d8378797bf1e1dfe5d62fee30fa6a1d992c4
